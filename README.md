@@ -4,7 +4,7 @@ THE POISSON PARADOX: Executive Master README (2026 Edition)
 
 1. MISSION PROFILE: THE HUMAN-MACHINE SYNTHESIS
 
-This framework is forged in the low-level assembly logic of early computing—a career trajectory starting with the rigid, monolithic structures of MS-DOS and Windows 95, now evolved into a high-velocity, AI-augmented "Cyborg" methodology. I do not view machine learning as a replacement for human intuition; rather, it is a technical exoskeleton that allows for the precise deconstruction of bookmaker pricing algorithms. Our objective is the systematic extraction of Alpha from live football betting markets by exploiting "Panic Pricing" events—structural failures where legacy-weighted models collapse under high-intensity volatility.
+This framework is forged in the low-level assembly logic of early computing—a career trajectory starting with the rigid, monolithic structures of MS-DOS and Windows 95, now evolved into a high-velocity, AI-augmented "Cyborg" methodology. I do not view machine learning as a replacement for human intuition; rather, it is a technical exoskeleton that allows for the precise deconstruction of bookmaker pricing algorithms. Our objective is the systematic extraction of Alpha from live football betting markets by exploiting "Panic Pricing" events—structural failures where legacy-weighted models collapse under high-intensity volatility. While my methodology is deeply technical, my role is strictly that of a system architect and logic designer, not a programmer.
 
 Vision Statement To achieve systematic Alpha extraction through the rigorous architectural deconstruction of bookmaker pricing algorithms, leveraging the Matrice di Reazione Algoritmica (MRA) to exploit irrational market overshoots.
 
